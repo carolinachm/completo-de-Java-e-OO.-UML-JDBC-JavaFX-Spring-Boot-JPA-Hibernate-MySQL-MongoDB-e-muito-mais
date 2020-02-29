@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EntradaDadosParte2",
+            "request": "launch",
+            "mainClass": "app.EntradaDadosParte2",
+            "projectName": "ws_certificado_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<ws_certificado_java>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ws_certificado_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<ws_certificado_java>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "ws_certificado_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EntradaDados<ws_certificado_java>",
+            "request": "launch",
+            "mainClass": "app.EntradaDados",
+            "projectName": "ws_certificado_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio1<ws_certificado_java>",
+            "request": "launch",
+            "mainClass": "app.Exercicio1",
+            "projectName": "ws_certificado_java"
+        }
+    ]
+}
