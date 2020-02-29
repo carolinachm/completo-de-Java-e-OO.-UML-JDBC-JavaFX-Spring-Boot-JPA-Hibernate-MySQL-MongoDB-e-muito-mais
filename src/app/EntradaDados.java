@@ -26,6 +26,6 @@ public class EntradaDados {
         System.out.println("Voce digitou: %. 2f%n" + z);
         System.out.println("Voce digitou: " + w);
 
-        sc.close();
+        sc.close();g
     }
 }
